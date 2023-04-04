@@ -30,7 +30,7 @@
 
 5. **查询参数(参数采用```下划线```分割)**
 
-​	/users/user_id=1&user_name=root&user_password=123456
+​	/users/{user_id}?user_name=root&user_password=123456
 
  6. **提交表单**
 
